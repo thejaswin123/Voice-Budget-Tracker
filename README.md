@@ -26,5 +26,5 @@ Finally You are ready to go!!
 |                    **Query printed in terminal**                                    |                               **Data stored in Excel**                                    | 
  
 
-![image](https://user-images.githubusercontent.com/52855622/124550291-14a36500-de4e-11eb-9504-356191c93739.png)
+![image](https://user-images.githubusercontent.com/52855622/131890903-c08903e8-cd7d-41eb-8958-2f5032015e05.png)
 
