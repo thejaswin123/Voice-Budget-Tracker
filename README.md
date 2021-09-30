@@ -2,7 +2,7 @@
 
 ### Introduction
 Voice based budget control , as name suggests this helps in tracking the budget using voice and data is stored in excel sheet which can be used to view in future.
-only set of commands is recognized and operation performed.
+The set of commands is recognized and operation is performed.
 
 Example set of commands namely,
 - I got Rs 5000 as my salary
